@@ -15,6 +15,7 @@
       "to": "#07C983"
     }
   },
+  
   "topbarLinks": [
     {
       "name": "Support",
@@ -25,11 +26,12 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
+  "openapi": "https://api-apitraffic-io-k1ahxzru7d6z.apitraffic.io/swagger.json"
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference",
-      "openapi": "https://api-apitraffic-io-k1ahxzru7d6z.apitraffic.io/swagger.json"
+      "name": "API",
+      "url": "endpoints",
+      "icon": "link"
     }
   ],
   "anchors": [
