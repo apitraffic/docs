@@ -28,7 +28,8 @@
   "tabs": [
     {
       "name": "API Reference",
-      "url": "api-reference"
+      "url": "api-reference",
+      "openapi": "https://api.apitraffic.io/swagger.json"
     }
   ],
   "anchors": [
