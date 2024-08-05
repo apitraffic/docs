@@ -26,7 +26,7 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
-  "openapi": "https://api-apitraffic-io-k1ahxzru7d6z.apitraffic.io/swagger.json"
+  "openapi": "https://api-apitraffic-io-k1ahxzru7d6z.apitraffic.io/swagger.json",
   "tabs": [
     {
       "name": "API",
