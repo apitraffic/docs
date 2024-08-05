@@ -26,12 +26,12 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
-  "openapi": "https://api-apitraffic-io-k1ahxzru7d6z.apitraffic.io/swagger.json",
+  
   "tabs": [
     {
-      "name": "API",
-      "url": "endpoints",
-      "icon": "link"
+      "name": "API Reference",
+      "url": "api",
+      "openapi": "https://api-apitraffic-io-k1ahxzru7d6z.apitraffic.io/swagger.json"
     }
   ],
   "anchors": [
